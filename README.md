@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Python<br>⚡ Fun fact: I Code Better at Night
+🔭 I’m currently working on Nodejs <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Python<br>⚡ Fun fact: I Code Better at Night
 
 
 ## 🌐 Socials:
